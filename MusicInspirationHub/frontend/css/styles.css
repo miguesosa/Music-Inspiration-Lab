@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFDD95;
+    /* Color de fondo */
+    color: #3468C0;
+    /* Color del texto principal */
+}
+
+header {
+    background-color: #FF9843;
+    /* Color del header */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #3468C0;
+}
+
+.btn-custom {
+    background-color: #3468C0;
+    /* Color de los botones */
+    color: white;
+    /* Color del texto del botón */
+}
+
+.btn-custom:hover {
+    background-color: #FF9843;
+    /* Color al pasar el mouse */
+}
+
+.card {
+    background-color: #86A7FC;
+    /* Color de las tarjetas */
+    border: none;
+    border-radius: 10px;
+}
