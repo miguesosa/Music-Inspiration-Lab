@@ -16,10 +16,7 @@
 ## Contribución
 ¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, por favor, haz un fork del repositorio y envía un pull request con tus cambios.
 
-## Licencia
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
-
-## Contacto
-Para más información, contacta a:
-- **Nombre**: Miguel Adrián Sosa
+## Créditos y Licencia
+- **Desarrollador**: Miguel Adrián Sosa [GitHub](https://github.com/miguesosa)
 - **Correo electrónico**: migueladriansosa@gmail.com
+- **Licencia**: Este proyecto está bajo la licencia MIT, lo que permite su uso, modificación y distribución sin restricciones.
