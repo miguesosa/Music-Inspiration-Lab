@@ -1,7 +1,7 @@
-# Music Inspiration Hub
+# Music Inspiration Lab
 
 ## Descripción
-**Music Inspiration Hub** es una aplicación web diseñada para ayudar a músicos y creadores a encontrar inspiración musical, compartir ideas y recursos didácticos. La plataforma permite a los usuarios registrarse, iniciar sesión y acceder a contenido exclusivo para fomentar la colaboración y el aprendizaje en la comunidad musical.
+**Music Inspiration Lab** es una aplicación web diseñada para ayudar a músicos y creadores a encontrar inspiración musical, compartir ideas y recursos didácticos. La plataforma permite a los usuarios registrarse, iniciar sesión y acceder a contenido exclusivo para fomentar la colaboración y el aprendizaje en la comunidad musical.
 
 ## Características
 - **Registro y autenticación de usuarios**: Permite a los usuarios crear cuentas y acceder a la aplicación de forma segura.
